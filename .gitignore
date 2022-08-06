@@ -1,0 +1,4 @@
+# add name of files, directory, that you want to git to track
+file.txt
+*.txt
+*.log
